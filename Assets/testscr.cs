@@ -11,7 +11,7 @@ public class scr : MonoBehaviour
     }
 
     // Update is called once per frame
-    void FixedU1pdate()
+    void Update()
     {
         
     }
